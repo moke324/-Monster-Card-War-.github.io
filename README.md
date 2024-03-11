@@ -1,4 +1,3 @@
-# -Monster-Card-War-.github.io
 
 <!DOCTYPE html>
 <html lang="en">
